@@ -1,0 +1,40 @@
+html{
+    background-color: #4793AF;
+}
+
+#resume{
+    font-family: "Montserrat", sans-serif;
+    background-color: #FFC470;
+    border: 3px solid;
+    padding: 2px;
+    width: 95%;
+}
+
+header{
+    background-color: #DD5746;
+    border: 5px solid;
+    margin-bottom: 5px;
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1{
+    padding-left: 5px;
+}
+
+#nav a{
+    color: #FFC470;
+    text-decoration: none;
+    padding-right: 5px;
+}
+
+#nav a:active{
+    color: #DD5746;
+}
+
+#nav a:hover{
+    background-color: #FFC470;
+    color: #DD5746;
+}
